@@ -9,7 +9,7 @@ function App() {
       <p>Move your mouse around 👀</p>
 
       <Mascot
-        directions={`${import.meta.env.BASE_URL}mascots/true.jpg`}
+        directions={`${import.meta.env.BASE_URL}mascots/nfy-directions.jpg`}
         reactions={`${import.meta.env.BASE_URL}mascots/nfy-reactions.png`}
         size={300}
         label="NFY mascot"
